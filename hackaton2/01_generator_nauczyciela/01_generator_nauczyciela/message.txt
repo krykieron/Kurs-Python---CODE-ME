@@ -1,9 +1,0 @@
-Witaj {first_name} {last_name}!
-
-Przypominam, że masz {missing_tasks} brakujących zadań do wykonania.
-Twoja ocena końcowa wynosi {grade}.
-
-Proszę, dostarcz brakujące zadania przed {zaliczenie_date}.
-
-Pozdrawiam,
-Nauczyciel
