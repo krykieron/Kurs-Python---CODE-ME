@@ -1,0 +1,5 @@
+age = input('Ile masz lat?')
+print('Masz już', age, 'lat?! Ale jesteś stary/a...')
+print('Imię?')
+name = input()
+print('Cześć '+ name)
