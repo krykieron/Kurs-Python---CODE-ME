@@ -1,0 +1,1 @@
+# discard nie generuje błędu gdy brakuje elementu do usunięcia
