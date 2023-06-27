@@ -1,4 +1,4 @@
-    coffee_list = {
+    coffee = {
         "GH": {
             "nazwa": "Guatemala Huehuetenango",
             "waga_worka": 69,
