@@ -1,0 +1,50 @@
+    coffee_list = {
+        "GH": {
+            "nazwa": "Guatemala Huehuetenango",
+            "waga_worka": 69,
+            "odmiana": "arabica",
+            "punktacja_sca": 83.75,
+            "zadana_temperatura": 190,
+            "strata_wagi": 0.19
+        },
+        "BS": {
+            "nazwa": "Brazil Santos",
+            "waga_worka": 60,
+            "odmiana": "arabica",
+            "punktacja_sca": 81.13,
+            "zadana_temperatura": 197,
+            "strata_wagi": 0.17
+        },
+        "BYB": {
+            "nazwa": "Brazil Yellow Bourbon",
+            "waga_worka": 59,
+            "odmiana": "arabica",
+            "punktacja_sca": 85,
+            "zadana_temperatura": 193,
+            "strata_wagi": 0.19
+        },
+        "CE": {
+            "nazwa": "Colombia Excelso",
+            "waga_worka": 70,
+            "odmiana": "arabica",
+            "punktacja_sca": 82.14,
+            "zadana_temperatura": 191,
+            "strata_wagi": 0.21
+        },
+        "PC": {
+            "nazwa": "Peru Chanchamayo",
+            "waga_worka": 69,
+            "odmiana": "arabica",
+            "punktacja_sca": 82.16,
+            "zadana_temperatura": 191,
+            "strata_wagi": 0.18
+        },
+        "ED": {
+            "nazwa": "Ethiopia Djimmah",
+            "waga_worka": 65,
+            "odmiana": "arabica",
+            "punktacja_sca": 77.68,
+            "zadana_temperatura": 187,
+            "strata_wagi": 0.15
+        }
+        }
