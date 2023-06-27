@@ -1,2 +1,2 @@
 "1. Coffeed": 25
-"2. Toper": 7,5
+"2. Toper": 7.5
