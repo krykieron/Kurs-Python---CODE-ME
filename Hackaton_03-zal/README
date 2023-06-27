@@ -1,6 +1,7 @@
-Symulator dla obliczenia wypalanej kawy
+Symulator dla obliczenia ilości wypalanej kawy
 
-W powyższym kodzie użytkownik zostaje zapytany o wybór kawy poprzez podanie jej symbolu.
-Następnie jest proszony o wybór pieca (Coffeed - C lub Toper - T), który decyduje o zasypie kawy.
-Po wyborze, program symuluje proces palenia kawy na podstawie danych wybranej kawy, obliczając wagę po wypale z
-uwzględnieniem straty wagi.
+Program służy do obliczenia ilości wypalonej kawy w wybranym przez użytkownika piecu. 
+Użytkownik zostaje zapytany o wybór kawy z magazynu wpisując jej symbol.
+Po wybraniu ziaren zostaje proszony o wybór pieca (Coffeed - C lub Toper - T). Piece różnią pojemnością i dają możliwość jednorazowo zasypać do niego kolejno
+25 lub 10 kg kawy. Po wyborze pieca, program symuluje proces jego działania. W zależności od dokonanego wyboru uzyskujemy informacje, ile z wypalonej kawy 
+uzyskujemy pomniejszając zasyp zielonej kawy o stratę odparowanej w procesie wody przez co uzyskujemy w sumie mniejszą gramaturę produktu końcowego.
